@@ -1,0 +1,10 @@
+/packages
+/TestResults
+/Agile.Web.Gateways.suo
+/Agile.Web.Gateways.vsmdi
+/Local.testsettings
+/TraceAndTestImpact.testsettings
+/Agile.Gateways.Redsys/obj
+/Agile.Gateways.Redsys/bin
+/Agile.Gateways.Redsys.Tests/obj
+/Agile.Gateways.Redsys.Tests/bin
