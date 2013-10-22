@@ -10,6 +10,9 @@ using Quartz.Impl.Triggers;
 
 namespace Agile.Gateways.Redsys
 {
+    /// <summary>
+    /// Bootstrapper class to start the gateway
+    /// </summary>
     public static class RedsysGatewayBootstrapper
     {
         internal static Route Route { get; private set; }

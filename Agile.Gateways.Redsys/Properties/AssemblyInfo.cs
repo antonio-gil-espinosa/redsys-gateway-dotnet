@@ -4,13 +4,13 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Agile.Web.Gateways.Redsys")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Redsys / Sermepa gateway for MVC4")]
+[assembly: AssemblyDescription("Redsys / Sermepa gateway for MVC4")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Agile.Web.Gateways.Redsys")]
+[assembly: AssemblyProduct("Redsys / Sermepa gateway for MVC4")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("Antonio Gil Espinosa")]
 [assembly: AssemblyCulture("")]
 
 // Si establece ComVisible como false, los tipos de este ensamblado no estarán visibles 

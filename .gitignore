@@ -8,3 +8,9 @@
 /Agile.Gateways.Redsys/bin
 /Agile.Gateways.Redsys.Tests/obj
 /Agile.Gateways.Redsys.Tests/bin
+
+/Agile.Gateways.Redsys.suo
+
+/Agile.Gateways.Redsys/Domain/Model/LaCaixaTransactionInfo.cs.mine
+/Agile.Gateways.Redsys/Domain/Model/LaCaixaTransactionInfo.cs.r10
+/Agile.Gateways.Redsys/Domain/Model/LaCaixaTransactionInfo.cs.r9
